@@ -1,11 +1,10 @@
 /* Hero */
 
 .hero {
-  height: 80vh;
-  border: 1px solid red;
+  height: 90vh;
   text-align: center;
   padding: 2rem;
-  margin-top: 10rem;
+  margin-top: 5rem;
 }
 
 .hero__title {
